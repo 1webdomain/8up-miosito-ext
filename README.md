@@ -1,4 +1,4 @@
-# Cloudflare Worker - Status Page Pro
+# Cloudflare Worker - Status Page Pro test in corso
 
 [![](https://dcbadge.vercel.app/api/server/gE39mt6WXd)](https://discord.gg/gE39mt6WXd)
 
